@@ -1,0 +1,17 @@
+[1 of 1] Compiling Main             ( haskell.hs, nothing )
+
+haskell.hs:1:12:
+    Illegal type signature: ‘Integer -> Bool isSquare n’
+      Perhaps you intended to use ScopedTypeVariables
+    In a pattern type-signature
+
+haskell.hs:2:46: Not in scope: ‘n’
+[1 of 1] Compiling Main             ( haskell.hs, nothing )
+
+haskell.hs:4:3: parse error on input ‘#’
+[1 of 1] Compiling Main             ( haskell.hs, nothing )
+
+haskell.hs:4:3: parse error on input ‘#’
+[1 of 1] Compiling Main             ( haskell.hs, nothing )
+
+haskell.hs:4:3: parse error on input ‘#’

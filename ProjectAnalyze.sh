@@ -9,7 +9,8 @@ echo $(git status)
 #Puts all uncommitted changes to changes.log
 function redirectChanges()
 {
-git stash pop >> changes.log
+#git stash pop >> changes.log
+git diff >> changes.log
 }
 #Puts each line from every file of your project with the tag TODO into a file todo.log
 function todo()
