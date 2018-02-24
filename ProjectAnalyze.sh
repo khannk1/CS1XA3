@@ -14,7 +14,7 @@ git stash pop >> changes.log
 #Puts each line from every file of your project with the tag TODO into a file todo.log
 function todo()
 {
-grep -r "#TODO" >> todo.log
+grep -r "#TODO" >> todo.log --exclude "todo.log" --exclude "ProjectAnalyze.sh"
 }
 #Checks all haskell files for syntax errors and puts the results into error.log
 function checkHaskell()
@@ -38,3 +38,12 @@ function lastfew()
 {
 find . -type f -name "*.txt" -exec  tail {} \;
 }
+
+checkstatus
+redirectChanges
+todo
+checkHaskell
+pagebypage
+firstfew
+lastfew
+
