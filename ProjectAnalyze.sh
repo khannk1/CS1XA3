@@ -1,4 +1,4 @@
-
+#!/bin/bash
 #checks status of local repository with respect to remote repository
 function checkstatus()
 {
