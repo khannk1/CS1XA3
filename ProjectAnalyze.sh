@@ -27,17 +27,17 @@ find -name "*.hs" -exec  ghc -fno-code {} \;>>error.log 2>&1
 
 function pagebypage()
 {
-find . -type f -name "*.txt" -exec  more {} \;
+find . -type f -name "*.txt" -exec  more {} \;>>page.log
 }
 
 function firstfew()
 {
-find . -type f -name "*.txt" -exec   head {} \;
+find . -type f -name "*.txt" -exec  head -n 5  {} \;>>head.log
 }
 
 function lastfew()
 {
-find . -type f -name "*.txt" -exec  tail {} \;
+find . -type f -name "*.txt" -exec  tail -n 5  {} \;>>tail.log
 }
 
 checkstatus
