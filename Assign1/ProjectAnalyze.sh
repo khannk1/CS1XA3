@@ -1,4 +1,5 @@
-ecks status of local repository with respect to remote repository
+#!bin/bash
+#checks status of local repository with respect to remote repository
 function checkstatus()
 {
 git fetch origin 
