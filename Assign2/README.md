@@ -25,6 +25,9 @@ I would like to thank our course instructor Curtis d'Alves for giving us this Pr
  I have taken inspiration from the following Github user to implement my web app - https://github.com/gdomiciano/tennis-game
 
  I referred the code wherever I got stuck while implementing my project
+ I have taken various functionalities from the code https://github.com/gdomiciano/tennis-game
+
+
 
 ### Other Links
 Additional links that I used throughout the development process of my website, for debugging purposes, include the following :
