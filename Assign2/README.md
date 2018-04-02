@@ -28,6 +28,8 @@ I would like to thank our course instructor Curtis d'Alves for giving us this Pr
  
  
  I have taken various functionalities from the code https://github.com/gdomiciano/tennis-game
+ 
+ I referred following link as well : https://www.reddit.com/r/learnjavascript/comments/4ailix/tennis_game_customise_html5_and_js/
 
 
 
