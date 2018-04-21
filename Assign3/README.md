@@ -24,28 +24,28 @@ Following are the requirements of the library:
 
 The getVars function in the module 	ExprType.hs has been taken in its entirety from github user deleeuwj1 with no modifications by me
 
-link to deleeuwj1: `https://github.com/deleeuwj1/CS1XA3/tree/master/Assign`
+link to deleeuwj1: https://github.com/deleeuwj1/CS1XA3/tree/master/Assign
 
 ***ExprDiff.hs***
 
 The module ExprDiff.hs in its entirety has been taken from github user barskyn, without any modifications by me 
 
-link to barskyn: `https://github.com/barskyn/CS1XA3/tree/master/Assign3`
+link to barskyn: https://github.com/barskyn/CS1XA3/tree/master/Assign3
 
 ***ExprParser.hs***
 
 The module ExprParser.hs has been taken in its entirety from github user deleeuwj1 with no modification done by me
 
-link to deleeuwj1: `https://github.com/deleeuwj1/CS1XA3/tree/master/Assign3`
+link to deleeuwj1: https://github.com/deleeuwj1/CS1XA3/tree/master/Assign3
 
 ***ExprTest.hs***
 
 Test cases have been taken from github user vermav6 
 
-link: `https://github.com/vermav6/CS1XA3/blob/master/Assign3/ExprTest.hs`
+link: https://github.com/vermav6/CS1XA3/blob/master/Assign3/ExprTest.hs
 
 ***ExprPretty.hs***
 
 Taken from github user barskyn
 
-link : `https://github.com/barskyn/CS1XA3/blob/master/Assign3/assign3/ExprPretty.hs`
+link : https://github.com/barskyn/CS1XA3/blob/master/Assign3/assign3/ExprPretty.hs
