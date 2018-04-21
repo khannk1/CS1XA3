@@ -1,3 +1,4 @@
+{-this module is not used since i have used deriving(Eq,Show) in Type definition-}
 module ExprPretty where
 
 import           ExprType
