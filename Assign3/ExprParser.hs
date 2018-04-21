@@ -6,11 +6,14 @@ NOTE: This moudle has been taken in its entirety from github user deleeuwj1 with
 
 module ExprParser (parseExprD,parseExprF) where
 
-  import ExprType
-  import ExprEval
+  
+import ExprType
+import Text.Parsec
+import Text.Parsec.String
+import ExprPretty
 
-  import Text.Parsec
-  import Text.Parsec.String
+  
+  
 
   {- parsing doubles -}
   parseExprD :: String -> Expr Double

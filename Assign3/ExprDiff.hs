@@ -11,7 +11,7 @@ NOTE: this module has been taken in its enitrety from github user barskyn, link 
 module ExprDiff where
 
 import           ExprType
-
+import ExprPretty
 import qualified Data.Map.Strict as Map
 {-This module defines a type class for the type definition Expr-}
 
